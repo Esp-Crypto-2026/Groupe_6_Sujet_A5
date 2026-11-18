@@ -5,7 +5,7 @@
 - **Question de recherche :** Reste-t-il en 2026 des signatures à nonce répété sur Bitcoin et Ethereum, et à partir de quel biais un nonce devient-il exploitable ?
 - **Séance d'animation :** S3 — du 11/11/2026, bloc 1 (avec A1)
 - **Groupe discuté :** groupe 4 (Mohamed LO, Ahmadoul Khadim TOURE, Amadou Tidiane KANE) — A11, outils d'analyse de contrats Solidity ; séance S5, vendredi 13 novembre 2026. Discutants : groupe 6 ; rapporteurs : groupe 7.
-- **Groupe rapporté :** groupe 1 — [sujet et séance à compléter] ; rapporteur : groupe 6.
+- **Groupe rapporté :** groupe 1 (Mouhamed Moustapha Niang, Thierno Abdoulaye Sall, Youssouph Gnaga Diatta, Mouhamed Dramé) — A0, délivrance du diplôme de l'ESP par preuve à divulgation nulle ; rapporteur : groupe 6. Note attribuée : **16**.
 
 Rôles des autres envers nous pour notre propre exposé A5 : discutants : groupe 1 ; rapporteurs : groupe 4.
 
